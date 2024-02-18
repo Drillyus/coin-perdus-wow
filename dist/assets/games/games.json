@@ -4,35 +4,35 @@
     "titre": "Photo Edition",
     "enigmes": [
       {
-        "photo": "src/assets/games/edition_3/enigme_1.jpg",
+        "photo": "assets/games/edition_3/enigme_1.jpg",
         "indice": "Bien qu'enfoui sous terre, je suis illuminé d'une myriade de couleurs cristallines"
       },
       {
-        "photo": "src/assets/games/edition_3/enigme_2.jpg",
+        "photo": "assets/games/edition_3/enigme_2.jpg",
         "indice": "Sur le trajet des nains, A l'abri d'un arbre millénaire, j'observe une tour elfe en contrebas"
       },
       {
-        "photo": "src/assets/games/edition_3/enigme_3.jpg",
+        "photo": "assets/games/edition_3/enigme_3.jpg",
         "indice": "Bien installé avec mon pique-nique, j'observe l'ocean a l'ouest"
       },
       {
-        "photo": "src/assets/games/edition_3/enigme_4.jpg",
+        "photo": "assets/games/edition_3/enigme_4.jpg",
         "indice": "A l'abri d'une épave de bateau, dans un joli lagon"
       },
       {
-        "photo": "src/assets/games/edition_3/enigme_5.jpg",
+        "photo": "assets/games/edition_3/enigme_5.jpg",
         "indice": "Meditant a coté de la tombe d'un troll sur un petit ilot bien a l'est"
       },
       {
-        "photo": "src/assets/games/edition_3/enigme_6.jpg",
+        "photo": "assets/games/edition_3/enigme_6.jpg",
         "indice": "J'attends l'arrivée d'un ami druide, a l'abri des morts"
       },
       {
-        "photo": "src/assets/games/edition_3/enigme_7.jpg",
+        "photo": "assets/games/edition_3/enigme_7.jpg",
         "indice": "J'observe des aurores boreales a l'abri de grands pins"
       },
       {
-        "photo": "src/assets/games/edition_3/enigme_8.jpg",
+        "photo": "assets/games/edition_3/enigme_8.jpg",
         "indice": "Sur un petit ilôt , j'observe d'anciennes ruines elfes"
       }
     ]
