@@ -3,6 +3,10 @@
     "id": 3,
     "titre": "Photo Edition",
     "enigmes": [
+	 {
+        "photo": "./assets/games/edition_3/enigme_9.jpg",
+        "indice": "Je crois que je me suis trompé de taverne"
+      },
       {
         "photo": "./assets/games/edition_3/enigme_1.jpg",
         "indice": "Bien qu'enfoui sous terre, je suis illuminé d'une myriade de couleurs cristallines"
@@ -34,6 +38,10 @@
       {
         "photo": "./assets/games/edition_3/enigme_8.jpg",
         "indice": "Sur un petit ilôt , j'observe d'anciennes ruines elfes"
+      },
+	  {
+        "photo": "./assets/games/edition_3/enigme_10.jpg",
+        "indice": "Je rends hommage a une ancienne déesse sauvage"
       }
     ]
   }
