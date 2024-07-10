@@ -1,0 +1,94 @@
+[
+  {
+    "id": 3,
+    "titre": "Photo Edition",
+    "enigmes": [
+      {
+        "id" : 1,
+        "indice" : "Je crois que je me suis trompé de taverne"
+      },
+      {
+        "id" : 2,
+        "indice" :  "Bien qu'enfoui sous terre, je suis illuminé d'une myriade de couleurs cristallines"
+      },
+      {
+        "id" : 3,
+        "indice" : "Sur le trajet des nains, A l'abri d'un arbre millénaire, j'observe une tour elfe en contrebas"
+      },
+      {
+        "id" : 4,
+        "indice" : "Bien installé avec mon pique-nique, j'observe l'ocean a l'ouest"
+      },
+      {
+        "id" : 5,
+        "indice" : "A l'abri d'une épave de bateau, dans un joli lagon"
+      },
+      {
+        "id" : 6,
+        "indice" : "Meditant a coté de la tombe d'un troll sur un petit ilot bien a l'est"
+      },
+      {
+        "id" : 7,
+        "indice" : "J'attends l'arrivée d'un ami druide, a l'abri des morts"
+      },
+      {
+        "id" : 8,
+        "indice" : "J'observe des aurores boreales a l'abri de grands pins"
+      },
+      {
+        "id" : 9,
+        "indice" : "Sur un petit ilôt , j'observe d'anciennes ruines elfes"
+      },
+      {
+        "id" : 10,
+        "indice" : "Je rends hommage a une ancienne déesse sauvage"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titre": "Photo Edition: BC",
+    "enigmes": [
+      {
+        "id" : 1,
+        "indice" : "le passage est un peu collant, mais la vue sur ce débris est superbe"
+      },
+      {
+        "id" : 2,
+        "indice" :  "En surplond d'une forêt cachée derriere une immense barriere naturelle"
+      },
+      {
+        "id" : 3,
+        "indice" : "Je comprends mieux la couleur de cette rivière"
+      },
+      {
+        "id" : 4,
+        "indice" : "Je me protège de la pluie dans un lieu au bord du monde"
+      },
+      {
+        "id" : 5,
+        "indice" : "Cette tour donne une vue imprenable sur cette forêt"
+      },
+      {
+        "id" : 6,
+        "indice" : "Je croyais visiter une grotte"
+      },
+      {
+        "id" : 7,
+        "indice" : "a l'est d'un village plutot inamicale, voici une étrange fontaine"
+      },
+      {
+        "id" : 8,
+        "indice" : "Bien installé, a l'abri d'un immense bouclier"
+      },
+      {
+        "id" : 9,
+        "indice" : "aprés une longue marche, une belle plage sur la mer interdite"
+      },
+      {
+        "id" : 10,
+        "indice" : "Je crois que j'ai ma montre qui déconne"
+      }
+    ]
+  }
+]

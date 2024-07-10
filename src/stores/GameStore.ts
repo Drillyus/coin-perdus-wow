@@ -1,6 +1,6 @@
 import { defineStore } from "pinia";
 import { Game } from "../types/game";
-import gameData from '../assets/games/games.json';
+import gameData from '../data/games.json';
 
 export const useGameStore = defineStore('game', {
   state: () => ({

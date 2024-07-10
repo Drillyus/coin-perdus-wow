@@ -5,7 +5,7 @@
       <v-toolbar-title>
         <router-link to="/" tag="span" style="cursor: pointer">
           <div class="d-flex">
-            <img src="./assets/logo.png" class="logo"/>
+            <img src="/assets/logo.png" class="logo"/>
             <span class="title">Les coins perdus d'azeroth</span>
           </div>
         </router-link>      
@@ -13,7 +13,8 @@
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-xs-only">
         <v-btn flat class="btn-nav" @click="router.push('/')" :class=" { selected: isSelected(-1)}">
-          Accueil
+          <img src="/assets/hearthstone.png" class="icon"/>
+          Taverne
         </v-btn>
         <v-btn v-for="game in games" :key="game.id" flat class="btn-nav"  @click="goToGame(game)">
           <v-icon start icon="mdi-map-search"></v-icon>
@@ -60,6 +61,7 @@ onMounted(() => {
 .navbar {
   background-color: #212121;
   border-bottom: solid 1px #3c3c3c;
+  font-family: 'warcraft', sans-serif;
 }
 .logo {
   height: 50px;
@@ -70,7 +72,6 @@ onMounted(() => {
   color: #fec106;
   text-decoration-line: underline;
   text-decoration-color: #8b4513;
-  font-family: 'warcraft', sans-serif;
 }
 .btn-nav {
   color: #fec106;

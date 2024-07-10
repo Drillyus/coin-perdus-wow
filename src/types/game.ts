@@ -5,6 +5,6 @@ export type Game = {
 }
 
 export type Enigme = {
-  photo:string;
+  id:number;
   indice:string;
-};
+}
